@@ -1,2 +1,2 @@
 # django_practice
-this is testing a my first commit
+This is my first commit
